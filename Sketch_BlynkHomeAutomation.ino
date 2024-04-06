@@ -1,7 +1,7 @@
 /* Fill-in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL3uJE_WqNc"
-#define BLYNK_TEMPLATE_NAME "NodemcuBlynk"
-#define BLYNK_AUTH_TOKEN "3mkIRGDR3NHUFwz0nWXNTJTcjsHibxLf"
+#define BLYNK_TEMPLATE_ID "YOUR BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR BLYNK_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR BLYNK_AUTH_TOKEN"
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
